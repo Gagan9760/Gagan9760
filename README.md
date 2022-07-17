@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gagan9760
 - 👀 I’m interested in Web Designing
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on Front End Designs UI/UX
 
 <!---
